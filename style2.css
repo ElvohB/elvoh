@@ -1,0 +1,30 @@
+body {
+    margin: 0mm;
+    padding: 0mm;
+}
+header
+{
+	text-align:center;
+    background-image:url("Busolos/Me.jpg" width= "521px");
+    background-size: cover;
+    background-position:center;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+} 
+body {
+    background-color: #87CEEB;
+}
+*
+{
+	padding: 0; 
+  	margin: 0;
+  	/*box-sizing: border-box;*/
+}
+menu-bar
+{
+	background: rgb(10,060,100);
+	text-align: center;
+	height: 80px;
+
+}
